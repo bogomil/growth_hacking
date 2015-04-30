@@ -1,6 +1,6 @@
 Note: Work in Progress
 
-# Yet Another Growth Hacking Resources by Category
+# Yet Another Growth Hacking Resource Directory
 
 ## Advices
 http://wpcurve.com/one-critical-skill/
