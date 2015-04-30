@@ -1,2 +1,6 @@
-# growth_hacking
-Growth Hacking Resources
+Note: Work in Progress
+
+# Growth Hacking Resources by Category
+
+## Advices
+http://wpcurve.com/one-critical-skill/
